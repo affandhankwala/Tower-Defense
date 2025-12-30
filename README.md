@@ -1,0 +1,2 @@
+## Introduction
+Tower defense is a game that follows the ideology of other tower-defense games but it takes place with the user playing the role of 'Martians'. Their goal is to strategically plan, plant, and upgrade towers along the path that the humans will travel on and eliminate them before they reach the end of the path.
